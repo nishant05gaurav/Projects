@@ -1,9 +1,9 @@
 /*
 
-Snake, water, gun or rock, paper, scissors is a game most of us have
-played during our school time (I something play it even now)
+Snake, water, gun, or rock, paper, scissors is a game most of us have played during our school time (I sometimes play it even now)
 
 */
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
